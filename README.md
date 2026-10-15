@@ -1,2 +1,13 @@
-# Kopi-Dan-Paste
-isinya paling template coding punya orang, entah lirik, apk, dll.
+# Belajar HTML & CSS
+
+Repository pertama saya di GitHub.
+
+## Teknologi
+- HTML
+- CSS
+- C++
+- Phyton
+  
+## Tujuan
+Belajar membuat website
+dan memahami GitHub.
